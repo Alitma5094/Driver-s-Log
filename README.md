@@ -2,6 +2,9 @@
 
 Driver's Log is an app to help young drivers prepare for their drivers license. All the information provided aligns with the driving laws in Maryland.
 
+![Log Drive](https://github.com/Alitma5094/Drivers-Log/assets/58941245/fb9919d7-2556-43e5-8bbe-3b0e1f2898ca)
+![Law Test](https://github.com/Alitma5094/Drivers-Log/assets/58941245/9abb7e4a-c5a8-4959-be01-7ea1f01c72aa)
+
 ## Features
 
 - Log drive time
